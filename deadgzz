@@ -17,7 +17,7 @@ RunService.Heartbeat:Connect(function()
     end)
 end)
 
-                                local Aiming = loadstring(game:HttpGet("https://github.com/ghoulmain/s9silent.luamadebys9floodbestscriptuncrackable/blob/main/niggaware", true))()
+                                local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/ghoulmain/s9silent.luamadebys9floodbestscriptuncrackable/main/niggaware", true))()
                             Aiming.TeamCheck(false)Aiming.ShowFOV = true
                              Aiming.FOV = 25
                             
